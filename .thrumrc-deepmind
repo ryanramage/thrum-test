@@ -1,0 +1,6 @@
+{
+  "livecoding": true,
+  "midiThru": true,
+  "in": "UM-1",
+  "out": "DeepMind12(4)"
+}
